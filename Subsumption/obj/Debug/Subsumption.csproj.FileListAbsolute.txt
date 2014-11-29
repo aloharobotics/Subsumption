@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Subsumption\Subsumption\obj\Debug\Subsumption.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Subsumption\Subsumption\bin\Debug\Subsumption.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Subsumption\Subsumption\bin\Debug\Subsumption.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Subsumption\Subsumption\obj\Debug\Subsumption.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Subsumption\Subsumption\obj\Debug\Subsumption.pdb
